@@ -1,0 +1,20 @@
+.roleManagement {
+    padding: 20px;
+  }
+  
+  .addButton {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .addButton:hover {
+    background-color: #218838;
+  }
+    
